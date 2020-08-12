@@ -1,0 +1,55 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - BwrList",
+            "request": "launch",
+            "mainClass": "view.BwrList",
+            "projectName": "Library Management System"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - App",
+            "request": "launch",
+            "mainClass": "view.App",
+            "projectName": "Library Management System"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "Library Management System"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-App<Library Management System_54810562>",
+            "request": "launch",
+            "mainClass": "App",
+            "windows": {
+                "classPaths": [
+                    ".",
+                    "%JDK_HOME%\\lib\\ext\\mysql-connector-java-8.0.21.jar"
+                ]
+            },
+            "projectName": "Library Management System_54810562"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Table<Library Management System_54810562>",
+            "request": "launch",
+            "mainClass": "Temp.Table",
+            "projectName": "Library Management System_54810562"
+        }
+    ]
+}

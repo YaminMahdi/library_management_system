@@ -1,0 +1,8 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "i:\\JavaVSCode\\mysql-connector-java-8.0.21\\mysql-connector-java-8.0.21.jar"
+    ],
+    "maven.view": "flat",
+    "java.dependency.syncWithFolderExplorer": true
+}
